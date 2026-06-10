@@ -1,0 +1,19 @@
+# Desperation playtest feedback - Fall 2025 sessions (one note per line)
+The monster pulled me out of the locker right after I hid - I didn't even get a chance. Feels unfair.
+Game is way too dark, I couldn't find the fuse room even with the flashlight.
+Sliding to escape the monster feels amazing.
+I had no idea how long my speed boost would last, there's no timer on screen.
+The footstep sound effect kept looping after I stopped moving in the packaged build.
+Frame rate tanks in the freezer room when the fog kicks in.
+The keypad puzzle was great once I realized the code was hidden in the notes.
+I couldn't tell which key opened which door, took me forever.
+Genuinely the scariest student game I've played, the atmosphere is incredible.
+Monster speed feels too fast in the early game before you get any power-ups.
+My objective marker disappeared after I died and reloaded.
+The wire puzzle in generator room 2 didn't register my last connection once.
+Inspection system is cool but I wish I could rotate the notes in 3D.
+Crouching noise level isn't obvious - am I quiet right now or not?
+I got stuck on a box in the storage room and had to restart.
+Love the bloodscreen effect when you take damage.
+The final chase was intense but one wrong turn killing you instantly felt cheap.
+Vision power-up slows you down too much to be useful.
