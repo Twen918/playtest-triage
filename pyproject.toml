@@ -17,3 +17,6 @@ playtest-triage = "playtest_triage.cli:main"
 
 [tool.setuptools.packages.find]
 include = ["playtest_triage*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
